@@ -1,1 +1,1 @@
-web: thumbor -p $PORT --keyfile=keyfile.txt --version
+web: thumbor -p $PORT --keyfile=keyfile.txt --log-level=debug
