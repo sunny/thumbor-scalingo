@@ -1,1 +1,1 @@
-web: thumbor -p $PORT --use-environment
+web: thumbor -p $PORT --use-environment=True
